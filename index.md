@@ -10,4 +10,5 @@ Stuff I realized
 ***
 Now it is time to make edits using **GitHub**
 I am already out of ideas of what to say...
+
 *hOw is tHe weaThEr tOdAY*
